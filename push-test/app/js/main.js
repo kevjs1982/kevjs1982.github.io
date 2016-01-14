@@ -8,6 +8,7 @@ if ('serviceWorker' in navigator) {
             userVisibleOnly: true
         }).then(function(sub) {
             console.log('endpoint:', sub.endpoint);
+			document.getElementById('epid').innerHTML = sub.endpoint;
         });
     }).catch(function(error) {
         console.log(':^(', error);
