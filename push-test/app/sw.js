@@ -10,10 +10,14 @@ self.addEventListener('activate', function(event) {
 });
 self.addEventListener('push', function(event) {
   console.log('Push message', event);
-  var title = 'Push message';
+  //var title = 'Push message';
+  var data = event.data.json();
+  var title = data.title || 'Why you no title?';
+  var message = data.message || 'Hello World!....I guess.';
+  
   event.waitUntil(
     self.registration.showNotification(title, {
-      body: 'The Message',
+      body: message,
       icon: 'images/icon.png',
       tag: 'my-tag'
     }));
