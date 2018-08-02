@@ -39,6 +39,19 @@
   
 # West Bridgford Cycle Network
   
+| Route | Description | Works Carried Out |
+| ----- | ----------- | ------ |
+| Route 1 | Musters Road (Cricket Ground to Melton Road), Melton Road (Musters Road to A52) | Lanes Installed along Melton Road between Devonshire Road and Valley Road **2017** |
+| Route 2 | Following Tram Line from Ferry Inn to Wilford Lane, Along Wilford Lane to crossing at Roko, towards Rushcliffe Arena, Rugby Road, Walcot Drive | Path near Recycling Centre Widened, Shared use path along Rugby Road, Cycle Zebra across Rugby Road, and paths widened round Greythorn Primary School **2017** |
+| Route 3 | Boundary Road, Continuing Loughbourgh Road towards Walcot Drive | None|
+| Route 4 (North) | Cyril Road / Gertrude Road / Across The Hook | None |
+| Route 4 (South) | Village Street, Wellin Lane, Path alongside Gamston Brook, Path alongside Grantham Canal | None |
+| Route 5 (West) | Path from just north of Compton Acres Tram Stop, Lyme Park, Alongside Greythorn Dyke, North Rushcliffe Area, Collington Way, Northwold Avenue, Chaworth Road | Path alongside Greythorn Dyke Widened, including a new bridge over the Dyke **Not permissible to cycle yet as this remains a Public Footpath**, New Toucan Crossing of Loughbourgh Road **2017** |
+| Route 5 (East) | Devonshire Road, Melton Road, Manvers Road, Exchange Road, Ethel Road, Gordon Road, Eltham Road, Grantham Canal, Path (north of Deepdale Close), Ambleside, Windemere Close, Basingfield Lane | None |
+
+## Wilford Fields Housing Development
+* This will result in the realignment of the path from Wilford Road to the northern edge of Rushcliffe Arena (part of Route 2) *Works Progressing 2018*
+
 # Carlton and Netherfield Cycle Network
   
 # Beeston - Boots Enterprise Zone Cycle Network
