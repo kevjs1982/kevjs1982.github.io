@@ -60,6 +60,23 @@
 
 # Cotgrave Greenway
 
+| Funding Source | Amount |
+|:------------- |-------------:|
+| EU Regional Development Fund | ? |
+| Nottinghamshire County Council | ? | 
+| **Total** | £250,000 |
+
+| Fact Box | |
+| --- | --- |
+| Description | Surfacing of 3km of the former mineral railway line from just south of Holme Road to Cotgrave Country Park. |
+| Dates | November 2017 - March 2018 |
+| Status | On Hold |
+| Works Completed | Surface of the path completed, although getting worse north of A52.  No access ramp constrcuted at northern end |
+
+
+
+
+
 # River Lean
 
 # Highways England A52 Junctions Improvement
