@@ -1,11 +1,12 @@
-=Cycle Infrastructure Projects in the Greater Nottingham Area=
+# Cycle Infrastructure Projects in the Greater Nottingham Area
 
-==Nottingham Cycle City Ambition 2015 - 2016==
+## Nottingham Cycle City Ambition 2015 - 2016
 
-**Funding Sources**
-* £6,100,000 D2N2 Local Growth Fund
-* £3,280,000 Nottingham City Council
-* http://www.d2n2lep.org/local-growth-fund/projects/nottingham-cycle-city-ambition
+| Funding Source | Amount |
+|:------------- |-------------:|
+| [D2N2 Local Growth Fund](http://www.d2n2lep.org/local-growth-fund/projects/nottingham-cycle-city-ambition) | £6,100,000  |
+| Nottingham City Council | £3,280,000  |
+
 
 **Works**
 * **"N3" Western Cycle Corridor**
@@ -36,4 +37,18 @@
       * Signed only Contraflow Lane between Castle and MMW **Completed 2018**
   * *Insert Details of other schemes*
   
+# West Bridgford Cycle Network
   
+# Carlton and Netherfield Cycle Network
+  
+# Beeston - Boots Enterprise Zone Cycle Network
+
+# Boots Enterprise Zone
+
+# Cotgrave Greenway
+
+# River Lean
+
+# Highways England A52 Junctions Improvement
+
+# A52 University Boulevard to Derby Road
