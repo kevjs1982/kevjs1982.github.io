@@ -1,6 +1,6 @@
-= Cycle Infrastructure Projects in the Greater Nottingham Area =
+=Cycle Infrastructure Projects in the Greater Nottingham Area=
 
-== Nottingham Cycle City Ambition 2015 - 2016 ==
+==Nottingham Cycle City Ambition 2015 - 2016==
 
 **Funding Sources**
 * £6,100,000 D2N2 Local Growth Fund
