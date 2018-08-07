@@ -56,6 +56,10 @@
   
 # Beeston - Boots Enterprise Zone Cycle Network
 
+* Midland Mainline Cycle Bridge
+* Thane Road Extension
+
+
 # Boots Enterprise Zone
 
 # Cotgrave Greenway
@@ -70,14 +74,10 @@
 | --- | --- |
 | Description | Surfacing of 3km of the former mineral railway line from just south of Holme Road to Cotgrave Country Park. |
 | Dates | November 2017 - March 2018 |
-| Status | On Hold |
-| Works Completed | Surface of the path completed, although getting worse north of A52.  No access ramp constrcuted at northern end |
+| Status | Under Construction |
+| Works Completed | Surface of the path completed, although getting worse north of A52.  Delay in constructing access ramp constrcuted at northern end, work resumed August 2018 |
 
-
-
-
-
-# River Lean
+# River Leen
 
 # Highways England A52 Junctions Improvement
 
